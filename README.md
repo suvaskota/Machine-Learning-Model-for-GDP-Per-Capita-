@@ -12,4 +12,4 @@ Outline of Project:
 4. Building Regression Models and Neural Network
 5. Conclusion
 
-**NOTE: The notebook sometimes might not render within GitHub due to its large size so it usually works after refreshing it a couple of times. Alternatively, you can view it by downloading the file and viewing it in Jupyter or Google Colab
+**NOTE: The notebook sometimes might not render within GitHub due to its large size so it usually works after refreshing it a couple of times. Alternatively, you can download the file and viewing it in Jupyter or Google Colab
